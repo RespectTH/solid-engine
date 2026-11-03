@@ -1,8 +1,13 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-11-01T02:55:36.248326+00:00",
-  "repo": "RespectTH/internet-draft-template",
+  "timestamp": "2026-11-03T04:29:04.570898+00:00",
+  "repo": "RespectTH/solid-engine",
   "labels": [
+    {
+      "name": "accessibility",
+      "description": "Barrier affecting people with disabilities",
+      "color": "f143ab"
+    },
     {
       "name": "bug",
       "description": "Something isn't working",
